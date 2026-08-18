@@ -16,6 +16,5 @@ The page is static and dependency-free. Any static host works:
 
 ## Notes
 
-- The `<repo-url>` placeholder in the install block should be replaced with the actual repo URL once it's published.
 - The FAQ, changelog, and hardware map are linked from the footer as relative paths. If you deploy `index.html` standalone (without the rest of the repo), those links will 404 — either deploy the whole repo or adjust the links to absolute URLs.
 - To change the palette, edit the CSS custom properties in the `:root` block at the top of `index.html`.

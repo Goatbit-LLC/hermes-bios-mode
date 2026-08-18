@@ -46,7 +46,7 @@ cp -R bios-mode ~/.hermes/skills/creative/
 Or clone directly:
 
 ```bash
-git clone <repo-url> ~/.hermes/skills/creative/bios-mode
+git clone https://github.com/Goatbit-LLC/hermes-bios-mode ~/.hermes/skills/creative/bios-mode
 ```
 
 The skill loads on the next session. To use it, just say **"bios mode"**.
